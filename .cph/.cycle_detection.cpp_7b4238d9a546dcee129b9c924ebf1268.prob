@@ -1,0 +1,1 @@
+{"name":"Local: cycle_detection","url":"c:\\Users\\ranas\\Desktop\\ds\\cycle_detection.cpp","tests":[{"id":1623831439005,"input":"4 2\n0 1\n1 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ranas\\Desktop\\ds\\cycle_detection.cpp","group":"local","local":true}

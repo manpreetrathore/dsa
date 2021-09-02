@@ -1,0 +1,1 @@
+{"name":"Local: snake_ladders","url":"c:\\Users\\ranas\\Desktop\\ds\\snake_ladders.cpp","tests":[{"id":1623924466388,"input":"2\n3 90\n56 76\n3\n99 10\n30 20\n20 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ranas\\Desktop\\ds\\snake_ladders.cpp","group":"local","local":true}

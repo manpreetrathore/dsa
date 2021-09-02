@@ -1,0 +1,1 @@
+{"name":"Local: coin_change","url":"c:\\Users\\ranas\\Desktop\\ds\\coin_change.cpp","tests":[{"id":1623999785037,"input":"3\n1 2 3\n6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ranas\\Desktop\\ds\\coin_change.cpp","group":"local","local":true}

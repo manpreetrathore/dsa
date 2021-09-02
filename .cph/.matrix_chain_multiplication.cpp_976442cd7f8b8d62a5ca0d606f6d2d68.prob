@@ -1,0 +1,1 @@
+{"name":"Local: matrix_chain_multiplication","url":"c:\\Users\\ranas\\Desktop\\ds\\matrix_chain_multiplication.cpp","tests":[{"id":1624012369899,"input":"5\n10 20 30 20 30","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ranas\\Desktop\\ds\\matrix_chain_multiplication.cpp","group":"local","local":true}

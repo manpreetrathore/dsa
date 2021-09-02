@@ -1,0 +1,1 @@
+{"name":"Local: merge_k_sorted_arrays","url":"c:\\Users\\ranas\\Desktop\\ds\\merge_k_sorted_arrays.cpp","tests":[{"id":1623594419169,"input":"3\n3 1 4 6\n2\n2 3\n3 \n5 6 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ranas\\Desktop\\ds\\merge_k_sorted_arrays.cpp","group":"local","local":true}

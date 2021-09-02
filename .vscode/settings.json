@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "iostream": "cpp",
+        "xutility": "cpp",
+        "stack": "cpp",
+        "deque": "cpp",
+        "ostream": "cpp",
+        "queue": "cpp",
+        "vector": "cpp",
+        "utility": "cpp",
+        "initializer_list": "cpp",
+        "type_traits": "cpp",
+        "xlocale": "cpp",
+        "algorithm": "cpp",
+        "limits": "cpp"
+    }
+}

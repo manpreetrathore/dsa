@@ -1,0 +1,1 @@
+{"name":"Local: indian_coin_change_problem","url":"c:\\Users\\ranas\\Desktop\\ds\\indian_coin_change_problem.cpp","tests":[{"id":1623682034364,"input":"10\n1 2 5 10 20 50 100 200 500 2000\n500","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ranas\\Desktop\\ds\\indian_coin_change_problem.cpp","group":"local","local":true}

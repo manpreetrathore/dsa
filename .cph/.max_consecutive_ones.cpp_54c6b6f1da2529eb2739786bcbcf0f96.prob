@@ -1,0 +1,1 @@
+{"name":"Local: max_consecutive_ones","url":"c:\\Users\\ranas\\Desktop\\ds\\max_consecutive_ones.cpp","tests":[{"id":1622887891148,"input":"5 2\n1 0 0 0 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ranas\\Desktop\\ds\\max_consecutive_ones.cpp","group":"local","local":true}

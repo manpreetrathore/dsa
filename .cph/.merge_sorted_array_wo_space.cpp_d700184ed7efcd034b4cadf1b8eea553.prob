@@ -1,0 +1,1 @@
+{"name":"Local: merge_sorted_array_wo_space","url":"c:\\Users\\ranas\\Desktop\\ds\\merge_sorted_array_wo_space.cpp","tests":[{"id":1623853271713,"input":"1\n4 5\n1 3 5 7\n0 2 6 8 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ranas\\Desktop\\ds\\merge_sorted_array_wo_space.cpp","group":"local","local":true}
